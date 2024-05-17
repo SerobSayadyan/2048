@@ -16,8 +16,9 @@ Before running the project, ensure you have Node.js and Yarn installed on your m
    ```bash
     yarn install
 
-   ```bash
+   
 3. **To start the game:**
-
+   
+   ```bash
     yarn build
     yarn start
