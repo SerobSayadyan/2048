@@ -13,10 +13,10 @@ Before running the project, ensure you have Node.js and Yarn installed on your m
    cd 2048
 
 2. **Install all dependencies:**
-
+   ```bash
     yarn install
 
-
+   ```bash
 3. **To start the game:**
 
     yarn build
